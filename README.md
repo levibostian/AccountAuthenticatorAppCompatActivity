@@ -1,3 +1,14 @@
+**Deprecated** Android's [AccountAuthenticatorActivity](https://developer.android.com/reference/android/accounts/AccountAuthenticatorActivity) javadoc now shows a message saying...
+
+```
+This class was deprecated in API level R.
+Applications should extend Activity themselves. This class is not compatible with AppCompat, and the functionality it provides is not complex. 
+```
+
+With that being said, this project will be read-only and not updated. 
+
+---
+
 [![Release](https://jitpack.io/v/levibostian/AccountAuthenticatorAppCompatActivity.svg)](https://jitpack.io/#levibostian/AccountAuthenticatorAppCompatActivity)
 
 # AccountAuthenticatorAppCompatActivity
